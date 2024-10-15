@@ -16,7 +16,7 @@ This project allows for transferring balances between SIM cards. It uses PHP and
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/sim-balance-transfer.git
+   git clone https://github.com/your_username/Sim-Balance-Task.git
    cd sim-balance-transfer
 
 2. **Set up the database:**
